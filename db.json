@@ -1,0 +1,232 @@
+{
+    "animals": [
+        {
+            "name": "duckie",
+            "type": "duck",
+            "latin": "duck",
+            "since": 2020,
+            "diet": [
+                1,
+                5,
+                8,
+                3
+            ]
+        },
+        {
+            "name": "puss",
+            "type": "kitten",
+            "card2": "kitten",
+            "since": 2020,
+            "diet": [
+                1,
+                5,
+                8,
+                3
+            ]
+        },
+        {
+            "name": "Big J",
+            "type": "piglet",
+            "card2": "piglet",
+            "since": 2020,
+            "diet": [
+                1,
+                5,
+                8,
+                3
+            ]
+        },
+        {
+            "name": "Spot",
+            "type": "puppy",
+            "card2": "puppy",
+            "since": 2020,
+            "diet": [
+                1,
+                5,
+                8,
+                3
+            ]
+        },
+        {
+            "name": "Jenny",
+            "type": "calf",
+            "card2": "calf",
+            "since": 2020,
+            "diet": [
+                1,
+                5,
+                8,
+                3
+            ]
+        },
+        {
+            "name": "Valentine",
+            "type": "veal",
+            "card2": "veal",
+            "since": 2020,
+            "diet": [
+                1,
+                5,
+                8,
+                3
+            ]
+        },
+        {
+            "name": "snooze",
+            "type": "lamb",
+            "card2": "lamb",
+            "since": 2020,
+            "diet": [
+                1,
+                5,
+                8,
+                3
+            ]
+        },
+        {
+            "name": "Tenacious D",
+            "type": "rooster",
+            "card2": "rooster",
+            "since": 2020,
+            "diet": [
+                1,
+                5,
+                8,
+                3
+            ]
+        },
+        {
+            "name": "Champ",
+            "type": "horse",
+            "card2": "horse",
+            "since": 2020,
+            "diet": [
+                1,
+                5,
+                8,
+                3
+            ]
+        },
+        {
+            "name": "Speedy",
+            "type": "mouse",
+            "card2": "mouse",
+            "since": 2020,
+            "diet": [
+                1,
+                5,
+                8,
+                3
+            ]
+        },
+        {
+            "name": "Bubbles",
+            "type": "dog",
+            "card2": "dog",
+            "since": 2020,
+            "diet": [
+                1,
+                5,
+                8,
+                3
+            ]
+        },
+        {
+            "name": "Whiskers",
+            "type": "cat",
+            "card2": "cat",
+            "since": 2020,
+            "diet": [
+                1,
+                5,
+                8,
+                3
+            ]
+        },
+        {
+            "name": "Mrs Feathers",
+            "type": "goose",
+            "card2": "goose",
+            "since": 2020,
+            "diet": [
+                1,
+                5,
+                8,
+                3
+            ]
+        },
+        {
+            "name": "Chewy",
+            "type": "goat",
+            "card2": "goat",
+            "since": 2020,
+            "diet": [
+                1,
+                5,
+                8,
+                3
+            ]
+        },
+        {
+            "name": "Mr Woolezzz",
+            "type": "sheep",
+            "card2": "sheep",
+            "since": 2020,
+            "diet": [
+                1,
+                5,
+                8,
+                3
+            ]
+        },
+        {
+            "name": "Big bad John",
+            "type": "pig",
+            "card2": "pig",
+            "since": 2020,
+            "diet": [
+                1,
+                5,
+                8,
+                3
+            ]
+        },
+        {
+            "name": "Rosemary",
+            "type": "cow",
+            "card2": "cow",
+            "since": 2020,
+            "diet": [
+                1,
+                5,
+                8,
+                3
+            ]
+        },
+        {
+            "name": "fluffy",
+            "type": "chick",
+            "card2": "chick",
+            "since": 2020,
+            "diet": [
+                1,
+                5,
+                8,
+                3
+            ]
+        },
+        {
+            "name": "Mrs knowitall",
+            "type": "hen",
+            "card2": "hen",
+            "since": 2020,
+            "diet": [
+                1,
+                5,
+                8,
+                3
+            ]
+        }
+    ]
+}
